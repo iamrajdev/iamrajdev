@@ -13,7 +13,6 @@
 
 ## :sassy_man: About me
 
-- :school: I am completed `class 8`, High School from Panchpota Bhara Danga High School - (HS)
 - :technologist: I love using Software as a solution for every `Problem`
 - :student: I’m currently learning: `Programming`, `Flutter` and `Web Development`.
 - :nerd_face: Always `learning new things`
