@@ -49,6 +49,9 @@
    </a>
   <a href="https://dart.dev/guides" target="_blank"> 
      <img alt="Dart" src="https://img.shields.io/badge/Dart%20-%231283c3.svg?style=plastic&logo=dart&logoColor=white">
+   </a>
+  <a href="https://kotlinlang.org/docs/getting-started.html" target="_blank"> 
+     <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin%20-%237F52FF.svg?style=plastic&logo=kotlin&logoColor=white">
    </a> 
 </p>
 
@@ -77,6 +80,14 @@
   &emsp; 
   <a href="https://laravel.com/docs/9.x/installation" target="_blank"> 
    <img alt="Laravel" src="https://img.shields.io/badge/Laravel%20-%23E34F26.svg?style=plastic&logo=laravel&logoColor=white">
+  </a>  
+  &emsp; 
+  <a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank"> 
+   <img alt="Flask" src="https://img.shields.io/badge/Flask%20-%23fff.svg?style=plastic&logo=flask&logoColor=black">
+  </a>
+  &emsp; 
+  <a href="https://www.djangoproject.com/start/" target="_blank"> 
+   <img alt="Django" src="https://img.shields.io/badge/Django%20-%230F9D58.svg?style=plastic&logo=django&logoColor=white">
   </a>  
 </p>
 
