@@ -14,7 +14,7 @@
 ## :sassy_man: About me
 
 - :technologist: I love using Software as a solution for every `Problem`
-- :student: I’m currently learning: `Programming`, `Flutter` and `Web Development`.
+- :student: I’m currently learning: `Android App Development`, `Flutter` and `Web Development`.
 - :nerd_face: Always `learning new things`
 
 <br>
@@ -160,4 +160,4 @@ Credits: [iamrajdev](https://github.com/iamrajdev)
 
 <!-- Last Edited on: 02/04/2022 -->
 
-Edited on: 31/08/2022
+Edited on: 5/09/2022
