@@ -12,9 +12,9 @@
 </p>
 
 ## :sassy_man: About me
-
+- :technologist: Working as `Flutter` Developer at Sapco
 - :technologist: I love using Software as a solution for every `Problem`
-- :student: I’m currently learning: `Android App Development`, `Flutter` and `Web Development`.
+- :student: I’m currently learning:  `Flutter & Dart`.
 - :nerd_face: Always `learning new things`
 
 <br>
