@@ -50,7 +50,7 @@
   <a href="https://dart.dev/guides" target="_blank"> 
      <img alt="Dart" src="https://img.shields.io/badge/Dart%20-%231283c3.svg?style=plastic&logo=dart&logoColor=white">
    </a>
-  <a href="https://kotlinlang.org/docs/getting-started.html" target="_blank"> 
+  <a href="https://www.java.com/en/" target="_blank"> 
      <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)">
    </a> 
   <a href="https://kotlinlang.org/docs/getting-started.html" target="_blank"> 
