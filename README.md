@@ -51,6 +51,9 @@
      <img alt="Dart" src="https://img.shields.io/badge/Dart%20-%231283c3.svg?style=plastic&logo=dart&logoColor=white">
    </a>
   <a href="https://kotlinlang.org/docs/getting-started.html" target="_blank"> 
+     <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)">
+   </a> 
+  <a href="https://kotlinlang.org/docs/getting-started.html" target="_blank"> 
      <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin%20-%237F52FF.svg?style=plastic&logo=kotlin&logoColor=white">
    </a> 
 </p>
