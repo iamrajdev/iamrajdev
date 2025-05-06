@@ -2,9 +2,10 @@
 <h3 align="center">💻 Sr. Software Developer | 📱 Flutter Expert | 🌱 Lifelong Learner</h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=00ADB5&center=true&vCenter=true&width=435&lines=Passionate+Self-Learner;Flutter+%7C+Dart+%7C+TypeScript+Python+Lover;Always+learning+new+things" alt="Typing SVG" />
-  </a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=Passionate+Self+Learner;Flutter+%7C+Dart+%7C+TypeScript+%7C+Python;Always+Learning+New+Things" alt="Typing SVG" />
+</a>
+
 </p>
 
 ---
