@@ -1,166 +1,111 @@
-<h1 align="center">Hi , I'm Raj Dev Barman <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi 👋, I'm Raj Dev Barman</h1>
+<h3 align="center">💻 Sr. Software Developer | 📱 Flutter Expert | 🌱 Lifelong Learner</h3>
+
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Passionate+Self-Learner;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=00ADB5&center=true&vCenter=true&width=435&lines=Passionate+Self-Learner;Flutter+%7C+Dart+%7C+TypeScript+Python+Lover;Always+learning+new+things" alt="Typing SVG" />
+  </a>
 </p>
 
-<br>
+---
 
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=iamrajdev&label=Profile%20views&color=0e75b6&style=plastic" alt="iamrajdev" /> 
-	<a href = "https://commits.top/india.html" target="_blank">
-	</a>	
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iamrajdev&label=Profile+Views&color=0e75b6&style=flat" alt="iamrajdev" />
 </p>
 
-## :sassy_man: About me
-- :technologist: Working as `Software Developer` at BEAS Consultancy and Services.
-- :technologist: I love using Software as a solution for every `Problem`
-- :student: I’m currently learning:  `Flutter & Dart`.
-- :nerd_face: Always `learning new things`
+---
 
-<br>
+## 🧑‍💻 About Me
+
+- 🔭 Currently working as **Sr. Software Developer** at **BEAS Consultancy and Services**
+- 💡 I love building solutions that solve real-world problems
+- 📱 Focused on **Flutter & Dart** for cross-platform mobile apps
+- 🌱 Actively learning, evolving & exploring new technologies
+- 🎯 Goal-oriented, self-motivated, and curious by nature
+
+---
+
+## 🚀 Tech Stack
+
+### 💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+</p>
+
+### 🌐 Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+</p>
+
+### 🖥 Backend
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-F9322C?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+</p>
+
+### 🛠 Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
+</p>
+
+### 🧰 IDEs & OS
+<p>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iamrajdev&show_icons=true&theme=algolia&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamrajdev&layout=compact&theme=algolia" height="180" />
+</p>
+
+---
 
 ## 🔥 Streak Stats
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=iamrajdev&theme=algolia" alt="iamrajdev" /></p>
-
-<br>
-<br>
-
-## 🤝 Connect with me
-
 <p align="center">
-	<a href="mailto:iamrajdev1@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/iamrajdev"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/iamrajdev/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/IamRajDev2"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/imrajdev1/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamrajdev&theme=algolia"/>
 </p>
-
-## 🛠️ My Skills
-
-### 👉 Programming languages
-
-<p align="center"> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-   </a>
-  <a href="https://www.typescriptlang.org/docs/" target="_blank"> 
-     <img alt="TypeScript" src="https://img.shields.io/badge/TypeSript%20-%231283c3.svg?style=plastic&logo=typescript&logoColor=white">
-   </a>
-  <a href="https://dart.dev/guides" target="_blank"> 
-     <img alt="Dart" src="https://img.shields.io/badge/Dart%20-%231283c3.svg?style=plastic&logo=dart&logoColor=white">
-   </a>
-  <a href="https://www.java.com/en/" target="_blank"> 
-     <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)">
-   </a> 
-  <a href="https://kotlinlang.org/docs/getting-started.html" target="_blank"> 
-     <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin%20-%237F52FF.svg?style=plastic&logo=kotlin&logoColor=white">
-   </a> 
-</p>
-
-### 👉 Frontend Development
-
-<p align="center"> 
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
-  </a>   
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS3%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
-  </a>
-  <a href="https://angular.io/start" target="_blank">
-    <img alt="Angular" src="https://img.shields.io/badge/Angular%20-%23E4405F.svg?style=plastic&logo=angular&logoColor=white">
-  </a>
-</p>
-
-### 👉 Backend Development
-
-<p align="center"> 
-  &emsp; 
-  <a href="https://nodejs.org/en/docs/" target="_blank"> 
-   <img alt="Node.js" src="https://img.shields.io/badge/Node.js%20-%41813c.svg?style=plastic&logo=node.js&logoColor=white">
-  </a>  
-  &emsp; 
-  <a href="https://laravel.com/docs/9.x/installation" target="_blank"> 
-   <img alt="Laravel" src="https://img.shields.io/badge/Laravel%20-%23E34F26.svg?style=plastic&logo=laravel&logoColor=white">
-  </a>  
-  &emsp; 
-  <a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank"> 
-   <img alt="Flask" src="https://img.shields.io/badge/Flask%20-%23fff.svg?style=plastic&logo=flask&logoColor=black">
-  </a>
-  &emsp; 
-  <a href="https://www.djangoproject.com/start/" target="_blank"> 
-   <img alt="Django" src="https://img.shields.io/badge/Django%20-%230F9D58.svg?style=plastic&logo=django&logoColor=white">
-  </a>  
-</p>
-
-### 👉 Software & Tools
-
-<p align="center">
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=plastic&logo=google%20sheets&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Mark Down" src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
-</p>
-
-### 👉 IDEs
-
-<p align="center">
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-0078d7.svg?style=plastic&logo=android-studio&logoColor=white"></a>
-</p>
-
-### 👉 Operating Systems
-
-<p align="center">
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
-</p>
-
-<br/>
-
-## 📊 Github Stats
-
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="iamrajdev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=iamrajdev&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  </p>
 
 ---
 
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/iamrajdev"><img alt="iamrajdev's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=iamrajdev&custom_title=iamrajdev's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
+## 🏆 GitHub Trophies
 
-<br/>
-
-## :trophy: Git profile Trophies
-
-<p align="center"> <a href="https://github.com/iamrajdev"><img src="https://github-profile-trophy.vercel.app/?username=iamrajdev&layout=compact&theme=algolia" alt="iamrajdev" /></a> </p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iamrajdev&theme=algolia&row=1&column=7"/>
+</p>
 
 ---
 
-Credits: [iamrajdev](https://github.com/iamrajdev)
+## 🤝 Connect With Me
 
-<!-- Last Edited on: 02/04/2022 -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/iamrajdev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/iamrajdev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
 
-Edited on: 5/09/2022
+---
+
+> ⚡ *“Strive for progress, not perfection.”* — *Raj Dev Barman*
+
+
+<!-- Last updated on: 06/05/2025 -->
