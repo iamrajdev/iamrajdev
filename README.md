@@ -18,7 +18,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 Currently working as **Sr. Software Developer** at **BEAS Consultancy and Services**
+- 🔭 Currently working as **Sr. Software Developer** at **BEAS**
 - 💡 I love building solutions that solve real-world problems
 - 📱 Focused on **Flutter & Dart** for cross-platform mobile apps
 - 🌱 Actively learning, evolving & exploring new technologies
