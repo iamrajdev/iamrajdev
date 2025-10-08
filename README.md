@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Raj Dev Barman</h1>
+<h1 align="center">Hi 👋, I'm Raj Dev</h1>
 <h3 align="center">💻 Sr. Software Developer | 📱 Flutter Expert | 🌱 Lifelong Learner</h3>
 
 <p align="center">
